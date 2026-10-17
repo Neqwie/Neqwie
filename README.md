@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Java , c++
+- 🌱 I’m currently learning Python, C++
   
 
 
